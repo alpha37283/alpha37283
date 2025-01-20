@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alpha37283
 - 👀 I’m interested in Learning new things, and knowing how things work.
-- 🌱 I’m currently learning different programming languages.(Beginner)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on Full Stack Development, specifically mobile app with MERN stack
+- 💞️ I’m also looking to collaborate on Deep Learning
+- 📫 How to reach me, => codewithmuneeb7@gmail.com
 
 <!---
 alpha37283/alpha37283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
