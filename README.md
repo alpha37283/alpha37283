@@ -1,5 +1,51 @@
-# 💫 About Me:
-# Muneeb | AI Systems & Computer Science<br><br>Software Engineering undergraduate (CGPA: 3.8+)  <br>Focused on Artificial Intelligence, Mathematical Computing, and Systems Engineering.<br><br>I enjoy solving complex problems that combine mathematics, logic, and software design.  <br>My long-term goal is to build scalable AI systems that operate in real-world environments.<br><br>---<br><br>## Areas of Interest<br><br>- Artificial Intelligence & Machine Learning<br>- Deep Learning Systems<br>- Mathematical Foundations of Computing<br>- Algorithms & Complexity<br>- Distributed and Scalable Systems<br>- Intelligent Surveillance & Vision System<br><br>---<br><br>## Technical Stack<br><br>**Languages**<br>- Python<br>- C++<br>- Java<br>- JavaScript<br><br>**Core Knowledge**<br>- Data Structures & Algorithms<br>- Operating Systems<br>- Databases<br>- Computer Networks<br>- Software Architecture & Design Patterns<br><br>**AI & Math**<br>- Machine Learning<br>- Deep Learning<br>- Linear Algebra<br>- Probability & Statistics<br>- Calculus<br><br>---<br><br>## Philosophy<br><br>> Build systems that think.  <br>> Understand the math behind the intelligence.  <br>> Engineer solutions that scale.<br><br>---<br><br>## Future Direction<br><br>- MS in Computer Science / Artificial Intelligence<br>- Research in AI Systems or Computational Methods<br>- Building high-impact AI engineering solutions
+# Muneeb Hussain Shah  
+### AI Systems & Computer Science
+
+Software Engineering undergraduate (CGPA: 3.8+)  
+Focused on Artificial Intelligence, Mathematical Computing, and Systems Engineering.
+
+---
+
+## Interests
+
+- Artificial Intelligence & Machine Learning
+- Deep Learning Systems
+- Mathematical Foundations of Computing
+- Algorithms & Complexity
+
+---
+
+## Technical Stack
+
+### Languages
+- Python
+- C++
+- Java
+- JavaScript
+
+### Core Computer Science
+- Data Structures & Algorithms
+- Operating Systems
+- Databases
+- Computer Networks
+- Software Architecture & Design Patterns
+
+### AI & Mathematical Foundations
+- Machine Learning
+- Deep Learning
+- Linear Algebra
+- Probability & Statistics
+- Calculus
+
+---
+
+## Philosophy
+
+> Build systems that think.  
+> Understand the mathematics behind intelligence.  
+> Engineer solutions that scale.
+
+---
 
 
 ## 🌐 Socials:
